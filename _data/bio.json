@@ -53,10 +53,8 @@
       "keywords": [
         "C",
         "C++",
-        "Java",
         "Javascript",
         "Assembly",
-        "Common Lisp"
       ]
     },
     {
@@ -74,16 +72,16 @@
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "area": "Computer Engineering (expected Fall, 2018)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "Fall 2014",
       "endDate": "Present",
       "gpa": "",
       "courses": [
       ]
     }
   ],
-  "work": [
+ /* "work": [
     {
       "company": "UH Manoa Board of Publications",
       "position": "Web Developer",
@@ -108,7 +106,7 @@
         "Answer phone and email responses to the ITS Help Desk"
       ]
     }
-  ],
+  ],*/
   "volunteer": [
     {
       "organization": "Center for Renewable Energy and Island Sustainability",
