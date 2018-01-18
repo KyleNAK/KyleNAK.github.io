@@ -13,6 +13,9 @@ summary: My team developed a drone to assist the Army in making their missions s
 
 <div class="ui small rounded images">
   <img class="ui image" src="../images/IMG_2957.jpg">
+  <img class="ui image" src="../images/drone_camera.jpg">
+  <img class="ui image" src="../images/drone_gps.jpg">
+  <img class="ui image" src="../images/drone_ir.jpg">
 </div>
 
 The Reconnaissance Drone project was started by my friend, Thomas Moriyasu. Thomas is an Army Scout, meaning his job is to locate the enemy and relay their positions back to his commander. There are times when they have to send out one to two men out to scout an area like the other side of a hill or river. This provides a risk of injury or death depending on the situation and a drone that is able to scout out the area for them would be able to reduce the chance of risk. . With the goal of reducing the amount of lives lost on missions and reducing the risks of going on a mission, we designed and built a drone to accomplish those tasks.
