@@ -10,7 +10,7 @@ labels:
   - Javascript
 ---
 
-<img class="ui tiny left circular floated image" src="../images/GBC_SYSTEM_TEAL.jpg">
+<img class="ui medium right floated rounded image" src="../images/JavaScript.jpg">
 
 Javascript was definitely one of the top coding languages on my list to learn. This class has provided me the opportunity to learn and experience Javascript in a efficient manner. My expectations of Javascript were mostly met. It was easier than I anticipated and also more fun to learn as well. In terms of simplicity of learning Javascript so far, I would compare it to Python. It makes creating functions, declaring variables, etc so much easier than some other languages such as C++. 
 
