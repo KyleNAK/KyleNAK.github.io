@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Leanring the Language of the Web
+title: Learning the Language of the Web
 # All dates must be YYYY-MM-DD format!
 date: 2018-01-19
 labels:
