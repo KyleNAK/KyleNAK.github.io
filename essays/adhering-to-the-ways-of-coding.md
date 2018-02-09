@@ -9,9 +9,9 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui medium right floated rounded image" src="../Coding_Standard.png">
-
 ## But Why?
+
+<img class="ui medium right floated rounded image" src="../Coding_Standard.png">
 
 Coding standards, why do we need them? They provide a foundation for developers to better understand each other. Of course, they aren’t necessary to learn right away when learning to code. However, I do believe that learning coding standards can help anyone that is learning to code. From my own personal experience, I feel that it’s easier to learn standards when you are new to the experience. This is mostly because since it’s your first time, you are able to adapt more to your learning. 
 
@@ -26,4 +26,5 @@ As its been only about five exact days since I’ve installed Intellij and start
 ## Just Do It
 
 We can argue that coding standards are trivial and subjective but at the end of the day, it definitely is one of the things every software engineer should know or learn eventually. As I said earlier, it not only saves your time, but everyone else’s time. And on the note of ESLint, I didn’t even know that leaving a space between the a set of parentheses and brackets were a thing. But hey... 
+
 <img class="ui image" src="../images/maxresdefault.jpg>
