@@ -11,7 +11,7 @@ labels:
 
 ## But Why?
 
-<img class="ui medium right floated rounded image" src="../Coding_Standard.png">
+<img class="ui medium right floated rounded image" src="../images/Coding_Standard.png>
 
 Coding standards, why do we need them? They provide a foundation for developers to better understand each other. Of course, they aren’t necessary to learn right away when learning to code. However, I do believe that learning coding standards can help anyone that is learning to code. From my own personal experience, I feel that it’s easier to learn standards when you are new to the experience. This is mostly because since it’s your first time, you are able to adapt more to your learning. 
 
