@@ -27,6 +27,6 @@ As its been only about five exact days since I’ve installed Intellij and start
 
 <img class="ui medium right floated rounded image" src="../images/just_do_it.jpg">
 
-We can argue that coding standards are trivial and subjective but at the end of the day, it definitely is one of the things every software engineer should know or learn eventually. As I said earlier, it not only saves your time, but everyone else’s time. And on the note of ESLint, I didn’t even know that leaving a space between the a set of parentheses and brackets were a thing. But hey... 
+We can argue that coding standards are trivial and subjective but at the end of the day, it definitely is one of the things every software engineer should know or learn eventually. As I said earlier, it not only saves your time, but everyone else’s time. And on the note of ESLint, I didn’t even know that leaving a space between a set of parentheses and brackets were a thing. But hey... 
 
 <img class="ui image" src="../images/maxresdefault.jpg">
