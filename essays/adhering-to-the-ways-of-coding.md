@@ -19,7 +19,7 @@ From my experience with working in group projects, I find that if you work with 
 
 ## Working with Intellij and ESLint
 
-As its been only about five exact days since I’ve installed Intellij and started using it, there are still many things that I don’t know about it to make a definite conclusion. So far, I feel like ESLint is mostly useful regarding to put ...js const ... or ...js let ... but I feel that this is something minor. I find that the green checkmark is both useful and a pain. It’s useful in the sense that it helps to improve my coding standards and my understanding of the language but is painful because there are just times when I have no idea why its giving me an error and I just have no idea how to fix it. Is that trivial? Honestly, I don’t know. 
+As its been only about five exact days since I’ve installed Intellij and started using it, there are still many things that I don’t know about it to make a definite conclusion. So far, I feel like ESLint is mostly useful regarding to put ... js const ... or ... js let ... but I feel that this is something minor. I find that the green checkmark is both useful and a pain. It’s useful in the sense that it helps to improve my coding standards and my understanding of the language but is painful because there are just times when I have no idea why its giving me an error and I just have no idea how to fix it. Is that trivial? Honestly, I don’t know. 
 
 ## Just Do It
 
