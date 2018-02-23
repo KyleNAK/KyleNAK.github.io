@@ -13,13 +13,13 @@ labels:
 
 ## One Word: Simple
 
-<img class="ui medium right floated rounded image" src="That-Was-Easy-Button.png">
+<img class="ui medium right floated rounded image" src="../images/That-Was-Easy-Button.png">
 
   After working with HTML and CSS development, I feel that Semantic UI is the perfect icing on the cake for working with web development. Why you ask? It is simply for the fact that it makes web development so much easier. Rather than using complex HTML and CSS configurations, Semantic UI offers a simple, easy to use format, that enables developers to create beautiful websites with simple HTML. 
 
 ## Compare and Contrast
 
-<img class="ui medium right floated rounded image" src="document-mess.png">
+<img class="ui medium right floated rounded image" src="../images/document-mess.png">
 
   While working with the Semantic UI framework, the one thing that kept popping in to my mind that was similar to the functionality of Semantic UI was the Underscore library for Javascript. Now you might be thinking, “why are you comparing a Javascript library to a UI framework?”, but just here me out for a bit. The main similarity between the Underscore Javascript library and the Semantic UI framework is the vast complexity of it despite its helpfulness. My personal reason being that while working with the underscore library, I would find that I was spending a lot of time searching for specific functions in order to implement a piece of code. And in the end, I end up with a simple couple lines of code at most for something that might have taken several lines of regular or complex Javascript code. This also goes for Semantic UI. While Semantic UI definitely simplifies our code, it just comes with so much functionality, that it takes time to look for what you specifically want. 
   
@@ -27,7 +27,7 @@ labels:
   
   ## Working on the WODs
   
-  <img class="ui medium right floated rounded image" src="overwhelmed.jpeg">
+ <img class="ui medium right floated rounded image" src="//images/overwhelmed.jpeg">
   
   Lastly, I want to conclude this essay with my experience using Semantic UI for the WODs. To be perfectly honest, I was excited to use Semantic UI from the moment I started watching the tutorials on the pluralsight website. Then after touching up on the browserhistory WOD, I was just blown away at how Semantic UI made it so simple to separate the browsers into three columns. When it came to the moment that we had to do the second practice WOD Island Snow, I was quite overwhelmed when I saw the image of what we had to make. With just a few lines of code, my mind made a complete 180 degrees on that opinion. I was actually excited to attempt the last two parts. 
   
