@@ -27,7 +27,7 @@ labels:
   
   ## Working on the WODs
   
- <img class="ui medium right floated rounded image" src="//images/overwhelmed.jpeg">
+ <img class="ui medium right floated rounded image" src="../images/overwhelmed.jpeg">
   
   Lastly, I want to conclude this essay with my experience using Semantic UI for the WODs. To be perfectly honest, I was excited to use Semantic UI from the moment I started watching the tutorials on the pluralsight website. Then after touching up on the browserhistory WOD, I was just blown away at how Semantic UI made it so simple to separate the browsers into three columns. When it came to the moment that we had to do the second practice WOD Island Snow, I was quite overwhelmed when I saw the image of what we had to make. With just a few lines of code, my mind made a complete 180 degrees on that opinion. I was actually excited to attempt the last two parts. 
   
