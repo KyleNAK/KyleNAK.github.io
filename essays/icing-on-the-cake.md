@@ -25,7 +25,7 @@ labels:
   
   Now the real question is, is that bad? Not necessarily. I think the fact that it takes time to searching things out in order to get things right is a good thing. This means that it just has that much to offer. Why complain about it giving more than you need? If you need to do things in a timely manner, then that’s a different answer. But there is a simple solution to that as well, trial and error. The more you get to work with Semantic UI, the more familiar it gets and the more we can use it without referencing the database. 
   
-  ## Working on the WODs
+ ## Working on the WODs
   
  <img class="ui medium right floated rounded image" src="../images/overwhelmed.jpeg">
   
