@@ -16,3 +16,4 @@ As coders, we often come to a point to where we just don't know what to do anymo
 
 ## Taking the Flame
 
+I've been coding for over 3 years and almost every bit of coding knowledge I have is derived from a design pattern. I use C/C++ and JavaScript, and both have a creational design pattern under the prototype design pattern. An example of this is when we create instances of classes. NEED FIX.
