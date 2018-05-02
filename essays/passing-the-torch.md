@@ -22,4 +22,4 @@ Lastly, loading the entire weight of the semester with just one design pattern i
 
 ## Deciding Our Fate
 
-So why do we use design patterns? 
+So why do we use design patterns? To put it simply, it simplifies our work. Why take the hard and difficult road when there's an easy and simplified one paved for us? Using design patterns can enable us to find better solutions that the ones we were using. Once those solutions are found, we can share it so that the knowledge is passed on to others like a torch.
