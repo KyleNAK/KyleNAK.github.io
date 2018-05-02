@@ -12,8 +12,12 @@ labels:
 
 ## Piecing the Solution Together
 
-As coders, we often come to a point to where we just don't know what to do anymore. So what do we do? Give up? No, we keep looking for the solution. Once the solution for a problem is found, it can be spread around for others to use in the case that they run into the same problem. These design patterns are like torches being passed down to other coders. They are able to speed up the development process by providing tested and well known development styles.
+How do we know what we know today? Is it magic? Did we just happen to know everything from the start? The answer to that, is no. The reason that we know many things these days is because of the trial and error of the people that came before us. Their efforts have guided us through a solution template of how we think and work. These solutions are called design patterns. With design patterns, we are able to avoid the frustrating work of figuring out how things work. 
 
 ## Taking the Flame
 
-I've been coding for over 3 years and almost every bit of coding knowledge I have is derived from a design pattern. I use C/C++ and JavaScript, and both have a creational design pattern under the prototype design pattern. An example of this is when we create instances of classes. NEED FIX.
+As a student studying Computer Engineering, I've used many design patterns throughout my entier college career. For starters, I use the singleton design pattern to assign global variables to act as state definers in Arduino. This could be somthing as simple as a state to determine if a LED should be on or off or act as a counter to assign different states in a system. 
+
+This semester in ICS314, we focused a lot of JavaScript early on. JavaScript uses the prototype design pattern when creating objects and using them in multiple instances. In this sense, I've been using the prototype design pattern unknowingly yet who can argu that's a bad thing. 
+
+Lastly, loading the entire weight of the semester with just one design pattern is 
