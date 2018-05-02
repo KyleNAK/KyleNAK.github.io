@@ -12,7 +12,11 @@ labels:
 
 ## Piecing the Solution Together
 
+<img class="ui medium right floated rounded image" src="../images/lightbulb.png">
+
 How do we know what we know today? Is it magic? Did we just happen to know everything from the start? The answer to that, is no. The reason that we know many things these days is because of the trial and error of the people that came before us. Their efforts have guided us through a solution template of how we think and work. These solutions are called design patterns. With design patterns, we are able to avoid the frustrating work of figuring out complex algorithms or patterns. 
+
+<img class="ui medium right floated rounded image" src="../images/Frustrated-again-636x440.jpg">
 
 ## Taking the Flame
 
@@ -22,4 +26,8 @@ Lastly, loading the entire weight of the semester with just one design pattern i
 
 ## Deciding Our Fate
 
+<img class="ui medium right floated rounded image" src="../images/easy_way_300x199.jpg">
+
 So why do we use design patterns? To put it simply, it simplifies our work. Why take the hard and difficult road when there's an easy and simplified one paved for us? Using design patterns can enable us to find better solutions that the ones we were using. Once those solutions are found, we can share it so that the knowledge is passed on to others like a torch.
+
+<img class="ui image" src="../images/bs_passing_the_torch.jpg">
