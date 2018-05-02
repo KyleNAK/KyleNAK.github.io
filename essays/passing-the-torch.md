@@ -12,7 +12,7 @@ labels:
 
 ## Piecing the Solution Together
 
-How do we know what we know today? Is it magic? Did we just happen to know everything from the start? The answer to that, is no. The reason that we know many things these days is because of the trial and error of the people that came before us. Their efforts have guided us through a solution template of how we think and work. These solutions are called design patterns. With design patterns, we are able to avoid the frustrating work of figuring out how things work. 
+How do we know what we know today? Is it magic? Did we just happen to know everything from the start? The answer to that, is no. The reason that we know many things these days is because of the trial and error of the people that came before us. Their efforts have guided us through a solution template of how we think and work. These solutions are called design patterns. With design patterns, we are able to avoid the frustrating work of figuring out complex algorithms or patterns. 
 
 ## Taking the Flame
 
