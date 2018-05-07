@@ -55,7 +55,7 @@ User can edit their profile by clicking on "Edit". The page is the exact same as
 
 ## Searching for Other Users
 
-House Mates also allows registered users to search through other registered users for potential roommates. The search system can list users that satisfy criteria entered by the user, such as the first name, last name, class standing, or preferred destinations:
+Housemates also allows registered users to search through other registered users for potential roommates. The search system can list users that satisfy criteria entered by the user, such as the first name, last name, class standing, or preferred destinations:
 
 <img src="../images/ListHousemates_new.png"><img src="../images/Filter-profiles.png">
 
