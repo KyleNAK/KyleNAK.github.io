@@ -49,7 +49,7 @@ Users may view and edit their own profile in the "View Profile" option. This pag
 
 ## Edit Your Profile
 
-User can edit their profile by clicking on "Edit". The page is the exact same as the profile creation so their a familiar what to fill in.
+User can edit their profile by clicking on "Edit". The page is the exact same as the profile creation so they're a familiar what to fill in.
 
 <img src="../images/editProfile_new.png">
 
@@ -57,14 +57,11 @@ User can edit their profile by clicking on "Edit". The page is the exact same as
 
 House Mates also allows registered users to search through other registered users for potential roommates. The search system can list users that satisfy criteria entered by the user, such as the first name, last name, class standing, or preferred destinations:
 
-<img src="../images/ListHousemates_new.png">
+<img src="../images/ListHousemates_new.png"><img src="../images/Filter-profiles.png">
 
 If a user no longer wishes to be connected to another user, they may also remove a user from their list of Housemates. This option is provided by a button in each profile on the ListHousemates page.
 
-Users are able to search for other users using the search and filter at the top. You can filter by name, preferred destination, interests/description, or class standing.
+For more information, check out our [homepage](https://housemates.github.io/). Here, you can find more information on the app as well as learning how to install the app on your local host. All source code and information can be found [here](https://github.com/housemates/housemates).
 
-<img src="../images/Filter-profiles.png">
-
-For more information, check out our [hompage](https://housemates.github.io/). Here, you can find more information on the app as well as learning how to install the app on your local host. All source code and information can be found [here](https://github.com/housemates/housemates).
-
+## My Contribution
 My role in our team was creating the user interface for the application. We decided as a group as to what features to have on the profile pages such as first and last name, contact info, desired destination, student grade level, and description. Since our application used a template, I also had to change up each profile was presented to the user. My other role was redirecting each page to make the user interface more simple. 
