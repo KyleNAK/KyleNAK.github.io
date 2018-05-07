@@ -21,7 +21,7 @@ Here is a walkthrough of the application page by page.
 
 When users first enter the Landing Page, they get a brief overview of the features of House Mates. They can get a more detailed explanation and walkthrough with the option "How to Use House Mates", which is presented in the page's navigation bar before and after a user signs in. Users can create their own account with an email address and password, or they can sign in to an existing account. After signing up with an email and password, new users are directed to create their profile with the fields shown below:
 
-<img width="500px" src="../images/"CreateProfile.JPG">
+<img width="500px" src="../images/CreateProfile.JPG">
 
 After their profile creation, the Navigation Bar presents these features in the following order: a walkthrough of the application (shown as "How to Use House Mates"), viewing and editing their profile (shown as "View Profile"), and listing and removing other users from their list of potential roommates (shown as "View Your Crew").
 
