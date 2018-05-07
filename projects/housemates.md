@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/LandingPage.JPG
 title: Chess
-permalink: projects/chess
+permalink: projects/housemates
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-04
 labels:
