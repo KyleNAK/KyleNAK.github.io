@@ -29,12 +29,13 @@ After their profile creation, the Navigation Bar presents these features in the 
 
 Users may view and edit their own profile in the "View Profile" option. This page displays the following components inputted by the user: their full name, class standing, contact information (email and/or phone number), places they would like to live, a description for them to include any other information about themselves, and an option to Edit these fields.
 
+<img width="500px" src="../images/ViewProfile.JPG">
 
 ## Searching for Other Users
 
 House Mates also allows registered users to search through other registered users for potential roommates. The search system can list users that satisfy criteria entered by the user, such as the first name, last name, class standing, or preferred destinations:
 
-
+<img width="500px" src="../images/ListHousemates.JPG">
 
 If a user no longer wishes to be connected to another user, they may also remove a user from their list of Housemates. This option is provided by a button in each profile on the ListHousemates page.
 
