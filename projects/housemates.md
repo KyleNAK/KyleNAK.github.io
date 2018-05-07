@@ -21,43 +21,43 @@ Here is a walkthrough of the application page by page.
 
 The landing page is what users are first greeted to when the enter the application. It inclused the navigation bar that inlcudes a tutorial on how to get started and the option to sign up or sign in.
 
-<img width="500px" src="../images/LandingPage.JPG">
+<img width="700px" src="../images/LandingPage.JPG">
 
 ## How to Use Housemates
 
 This page is for people new to Housemates or want to learn more about Housemates. It guides new users on how to get started.
 
-<img width="500px" src="../images/Tutorial.JPG">
+<img width="700px" src="../images/Tutorial.JPG">
 
 ## Signing In/Signing Up
 
 Users can sign up for an account or sign in to an existing account using a email and password.
 
-<img width="500px" src="../images/signin.png"><img width="500px" src="../images/signup.png">
+<img width="700px" src="../images/signin.png"><img width="700px" src="../images/signup.png">
 
 ## Creating Your Profile
 
 New users are able to create their profile to fit their personality and information. Fields that are used to describe a profile are First Name, Last Name, Contact Info, Image, Class standing, place of interest to live, and a description of the user. 
 
-<img width="500px" src="../images/createProfile_new.png">
+<img width="700px" src="../images/createProfile_new.png">
 
 ## View Your Profile
 
 Users may view and edit their own profile in the "View Profile" option. This page displays the following components inputted by the user: their full name, class standing, contact information (email and/or phone number), places they would like to live, a description for them to include any other information about themselves, and an option to Edit these fields.
 
-<img width="500px" src="../images/viewProfile_new.png">
+<img width="700px" src="../images/viewProfile_new.png">
 
 ## Edit Your Profile
 
 User can edit their profile by clicking on "Edit". The page is the exact same as the profile creation so they're a familiar with what to fill in.
 
-<img width="500px" src="../images/editProfile_new.png">
+<img width="700px" src="../images/editProfile_new.png">
 
 ## Searching for Other Users
 
 Housemates also allows registered users to search through other registered users for potential roommates. The search system can list users that satisfy criteria entered by the user, such as the first name, last name, class standing, or preferred destinations:
 
-<img width="500px" src="../images/ListHousemates_new.png"><img width="500px" src="../images/Filter-profiles.png">
+<img width="700px" src="../images/ListHousemates_new.png"><img width="700px" src="../images/Filter-profiles.png">
 
 If a user no longer wishes to be connected to another user, they may also remove a user from their list of Housemates. This option is provided by a button in each profile on the ListHousemates page.
 
