@@ -12,3 +12,5 @@ labels:
   - JavaScript
 summary: My team and I built a web application to assist college students in finding housing outside of campus.
 ---
+
+[Housemates](https://github.com/housemates/housemates) is a Meteor application that provides the University of Hawaii community with a means to collaborate on finding off-campus housing.
