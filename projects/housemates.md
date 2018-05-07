@@ -17,6 +17,18 @@ summary: My team and I built a web application to assist college students in fin
 
 Here is a walkthrough of the application page by page.
 
+## Landing Page
+
+The landing page is what users are first greeted to when the enter the application. It inclused the navigation bar that inlcudes a tutorial on how to get started and the option to sign up or sign in.
+
+<img width="500px" src="../images/LandingPage.JPG">
+
+## How to Use Housemates
+
+This page is for people new to Housemates or want to learn more about Housemates. It guides new users on how to get started.
+
+<img width="500px" src="../images/Tutorial.JPG">
+
 ## Signing In/Signing Up
 
 When users first enter the Landing Page, they get a brief overview of the features of House Mates. They can get a more detailed explanation and walkthrough with the option "How to Use House Mates", which is presented in the page's navigation bar before and after a user signs in. Users can create their own account with an email address and password, or they can sign in to an existing account. After signing up with an email and password, new users are directed to create their profile with the fields shown below:
