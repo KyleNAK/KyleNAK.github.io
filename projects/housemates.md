@@ -2,7 +2,7 @@
 layout: project
 type: project
 image: images/LandingPage.JPG
-title: Chess
+title: Housemates
 permalink: projects/housemates
 # All dates must be YYYY-MM-DD format!
 date: 2018-05-04
