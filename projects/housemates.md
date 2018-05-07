@@ -31,7 +31,7 @@ This page is for people new to Housemates or want to learn more about Housemates
 
 ## Signing In/Signing Up
 
-When users first enter the Landing Page, they get a brief overview of the features of House Mates. They can get a more detailed explanation and walkthrough with the option "How to Use House Mates", which is presented in the page's navigation bar before and after a user signs in. Users can create their own account with an email address and password, or they can sign in to an existing account. After signing up with an email and password, new users are directed to create their profile with the fields shown below:
+Users can sign up for an account or sign in to an existing account using a email and password.
 
 <img src="../images/signin.png"><img src="../images/signup.png">
 
@@ -49,7 +49,7 @@ Users may view and edit their own profile in the "View Profile" option. This pag
 
 ## Edit Your Profile
 
-User can edit their profile by clicking on "Edit". The page is the exact same as the profile creation so they're a familiar what to fill in.
+User can edit their profile by clicking on "Edit". The page is the exact same as the profile creation so they're a familiar with what to fill in.
 
 <img src="../images/editProfile_new.png">
 
