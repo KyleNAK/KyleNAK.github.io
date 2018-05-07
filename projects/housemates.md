@@ -1,12 +1,14 @@
 ---
 layout: project
 type: project
-image: images/chess-300x300.jpg
+image: images/LandingPage.JPG
 title: Chess
 permalink: projects/chess
 # All dates must be YYYY-MM-DD format!
-date: 2016-05-02
+date: 2018-05-04
 labels:
-  - C++
+  - React
+  - Meteor
+  - JavaScript
 summary: My team and I built a chess game using chess algorithms for our EE205 final project.
 ---
