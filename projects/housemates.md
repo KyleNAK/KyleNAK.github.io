@@ -10,5 +10,5 @@ labels:
   - React
   - Meteor
   - JavaScript
-summary: My team and I built a chess game using chess algorithms for our EE205 final project.
+summary: My team and I built a web application to assist college students in finding housing outside of campus.
 ---
