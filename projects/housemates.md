@@ -35,13 +35,13 @@ When users first enter the Landing Page, they get a brief overview of the featur
 
 <img src="../images/signin.png"><img src="../images/signup.png">
 
-## Createing Your Profile
+## Creating Your Profile
 
 New users are able to create their profile to fit their personality and information. Fields that are used to describe a profile are First Name, Last Name, Contact Info, Image, Class standing, place of interest to live, and a description of the user. 
 
 <img src="../images/createProfile_new.png">
 
-## Viewing Profile
+## View Your Profile
 
 Users may view and edit their own profile in the "View Profile" option. This page displays the following components inputted by the user: their full name, class standing, contact information (email and/or phone number), places they would like to live, a description for them to include any other information about themselves, and an option to Edit these fields.
 
