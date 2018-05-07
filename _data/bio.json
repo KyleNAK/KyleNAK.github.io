@@ -31,8 +31,7 @@
     {
       "name": "internet of things",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+        "Arduino"
       ]
     },
     {
@@ -63,9 +62,9 @@
       "keywords": [
         "MacOS",
         "Ubuntu",
+        "Windows",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "g++"
       ]
     }
   ],
